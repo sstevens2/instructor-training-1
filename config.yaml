@@ -114,3 +114,5 @@ profiles:
 
 url: https://preview.carpentries.org/instructor-training
 workbench-beta: 'true'
+pre-beta-date: '2022-11-28'
+old-url: 'https://carpentries.github.io/instructor-training'
